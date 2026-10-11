@@ -1,8 +1,8 @@
 class Digest < Formula
   desc "Terminal dashboard for your day-to-day work"
   homepage "https://github.com/achandrapaul/digest"
-  url "https://github.com/achandrapaul/digest/archive/refs/tags/v0.0.152.tar.gz"
-  sha256 "a39c8055d651da22d4b3ed4e76ff0afa843947758ae146bc8693c7ea436c3979"
+  url "https://github.com/achandrapaul/digest/archive/refs/tags/v0.0.153.tar.gz"
+  sha256 "5dfbc57eb5fdc952399550f3cee334edaea88f69403e02af60cf0d2ac877fa1d"
   license "MIT"
   head "https://github.com/achandrapaul/digest.git", branch: "main"
 
